@@ -45,7 +45,7 @@ JPEG, PNG, TIFF, BMP, GIF, WEBP, ICO, PPM, TGA, PCX
 ### 快速安装
 ```bash
 # 克隆项目
-git clone https://github.com/yourusername/ConvertAnyImage.git
+git clone https://github.com/LeastBit/ConvertAnyImage.git
 cd ConvertAnyImage
 
 # 安装依赖
