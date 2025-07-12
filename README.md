@@ -6,6 +6,7 @@
 [![License](https://img.shields.io/badge/License-Custom-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)]()
 
+[中文](./README.md) | [English](./README_EN.md) | [B站教程]()
 </div>
 
 ## ✨ 核心特色
