@@ -19,7 +19,7 @@
 - **Color Mode Optimization**: Intelligent color mode conversion to avoid color distortion
 
 ### 🚀 **Powerful Capabilities**
-- **Full Format Support**: Convert between 20+ mainstream image formats
+- **Full Format Support**: Convert between many mainstream image formats
 - **PDF to Image**: High-quality PDF page conversion to images
 - **Batch Processing**: One-click conversion of entire folders
 - **Multi-page PDF Handling**: Support for multi-page PDF merging or separate page saving
