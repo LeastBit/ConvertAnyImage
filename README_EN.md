@@ -1,10 +1,14 @@
 # 🖼️ ConvertAnyImage - Universal Image Format lossless Converter
 
+<div align="center">
+
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-Custom-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)]()
 
 [中文](./README.md) | [English](./README_EN.md) | [B站教程]()
+
+</div>
 
 ## ✨ Key Features
 
